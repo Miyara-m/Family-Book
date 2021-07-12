@@ -1,0 +1,13 @@
+button{
+border-width: 5px;
+color: chartreuse;
+background-color: crimson;
+font-family: monospace;
+border-radius: 25px;
+}
+body{
+    text-align: center;
+    color: darkmagenta;
+    background-color: darkturquoise;
+    font-family: Tahoma;
+}
